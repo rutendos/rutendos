@@ -11,8 +11,9 @@ I've contributed to various projects that include:
 5. [Whiptail lizard](https://elifesciences.org/articles/97035) genomes 🦎 analyses. I contributed to the analysis of the synteny of the genomes and the repeat element content of the genomes. 
 
 In my free time, I enjoy drawing and painting.
+<img src="[drawing.jpg](https://github.com/rutendos/rutendos.github.io/blob/gh-pages/assets/img/chameleon.jpg)" alt="drawing" width="200"/>
 
-![chameleon](https://github.com/rutendos/rutendos.github.io/blob/gh-pages/assets/img/chameleon.jpg=100x20)
+![chameleon](https://github.com/rutendos/rutendos.github.io/blob/gh-pages/assets/img/chameleon.jpg)
 
 In the last couple of years, I've also picked up running 🏃‍♀️. 
 
