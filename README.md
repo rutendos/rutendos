@@ -12,13 +12,9 @@ I've contributed to various projects that include:
 
 In my free time, I enjoy drawing and painting.
 
-<img src="[drawing.jpg](./chameleon.jpg)" alt="Watercolor painting of a chameleon." width="200"/>
-
-![chameleon](https://github.com/rutendos/rutendos.github.io/blob/gh-pages/assets/img/chameleon.jpg)
-
 <div class="items">
 <figure>
-    <img src="./chameleon.jpg" alt="oldstarter" width="200" style="padding: 10px;" align="center"/>
+    <img src="./chameleon.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
     <figcaption>A painting of a chameleon using watercolor paint and details added with acrylic paint.</figcaption>
 </figure>
 
