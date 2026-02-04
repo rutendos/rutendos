@@ -24,16 +24,17 @@ In my free time, I enjoy drawing and painting.
 
 In the last couple of years, I've also picked up running 🏃‍♀️. My goal is to increase mileage each year 😅. 
 
-📧 My email address is rfsigauke@gmail.com. Feel free to email and connect with me!
+
+My email address is rfsigauke@gmail.com. Feel free to email and connect with me!
 
 ### Development tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/python-black?style=plastic&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-black?style=plastic&logo=R&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=plastic&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-black?style=plastic&logo=Jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-black?style=plastic&logo=RStudio&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=plastic&logo=Markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=plastic&logo=Visual%20Studio%20Code&logoColor=white)
 
