@@ -14,7 +14,7 @@ In my free time, I enjoy drawing and painting.
 
 <div class="items">
 <figure>
-    <img src="./chameleon.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
+    <img src="./chameleon.jpg" alt="Example Art" width="400" style="padding: 5px;" align="center"/>
     <figcaption>A painting of a chameleon using watercolor paint and details added with acrylic paint.</figcaption>
 </figure>
 
