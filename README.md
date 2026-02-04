@@ -14,18 +14,16 @@ I've contributed to various projects that include:
 
 
 #### Fun facts
-In my free time, I enjoy drawing and painting.
+- In my free time, I enjoy drawing and painting.
 
 <figure class="center">
     <img src="./chameleon.jpg" alt="Example Art" width="400" style="padding: 5px;" align="center"/>
-    <figcaption>A painting of a chameleon using watercolor paint and details added with acrylic paint.</figcaption>
+    <figcaption>Here is a painting of a chameleon using watercolor paint and details added with acrylic paint (painted March 17, 2021).</figcaption>
 </figure>
 
 
-In the last couple of years, I've also picked up running 🏃‍♀️. My goal is to increase mileage each year 😅. 
+- In the last couple of years, I've also picked up running 🏃‍♀️. My goal is to increase mileage each year 😅. 
 
-
-My email address is rfsigauke@gmail.com. Feel free to email and connect with me!
 
 ### Development tools
 
@@ -37,4 +35,8 @@ My email address is rfsigauke@gmail.com. Feel free to email and connect with me!
 ![RStudio](https://img.shields.io/badge/RStudio-black?style=plastic&logo=RStudio&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=plastic&logo=Markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=plastic&logo=Visual%20Studio%20Code&logoColor=white)
+
+### Contact details
+
+My email address is rfsigauke@gmail.com. Feel free to email and connect with me!
 
