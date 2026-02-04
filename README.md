@@ -17,5 +17,6 @@ In my free time, I enjoy drawing and painting.
     <figcaption>A painting of a chameleon using watercolor paint and details added with acrylic paint.</figcaption>
 </figure>
 
-In the last couple of years, I've also picked up running 🏃‍♀️. 
+
+In the last couple of years, I've also picked up running 🏃‍♀️. My goal is to increase mileage each year 😅. 
 
