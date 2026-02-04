@@ -10,5 +10,9 @@ I've contributed to various projects that include:
 4. Applying [statistical analyses](https://github.com/Dowell-Lab/bidir_gene_pairs/tree/windowed_correlations) to determine regulatory regions linked to genes in human tissues.
 5. [Whiptail lizard](https://elifesciences.org/articles/97035) genomes 🦎 analyses. I contributed to the analysis of the synteny of the genomes and the repeat element content of the genomes. 
 
-In my free time, I enjoy drawing and painting. In the last couple of years, I've also picked up running 🏃‍♀️. 
+In my free time, I enjoy drawing and painting.
+
+![chameleon](https://github.com/rutendos/rutendos.github.io/blob/tree/gh-pages/assets/img/chameleon.jpg)
+
+In the last couple of years, I've also picked up running 🏃‍♀️. 
 
