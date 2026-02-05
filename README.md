@@ -17,7 +17,7 @@ I've contributed to various projects that include:
 ![Python](https://img.shields.io/badge/python-black?style=plastic&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-black?style=plastic&logo=R&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=plastic&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white);
+![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white)\
 ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=plastic&logo=Jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-black?style=plastic&logo=RStudio&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=plastic&logo=Markdown&logoColor=white)
