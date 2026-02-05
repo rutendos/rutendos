@@ -22,6 +22,8 @@ I've contributed to various projects that include:
 ![RStudio](https://img.shields.io/badge/RStudio-black?style=plastic&logo=RStudio&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=plastic&logo=Markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=plastic&logo=Visual%20Studio%20Code&logoColor=white)
+![Nextflow](https://img.shields.io/badge/nextflow-black?logo=nextflow&logoColor=white)
+
 
 ### Fun facts
 - In the last couple of years, I've picked up running 🏃‍♀️. My goal is to increase mileage each year 😅. 
