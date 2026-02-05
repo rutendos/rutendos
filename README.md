@@ -17,7 +17,7 @@ I've contributed to various projects that include:
 ![Python](https://img.shields.io/badge/python-black?style=plastic&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-black?style=plastic&logo=R&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=plastic&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white)\
+![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=plastic&logo=Jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-black?style=plastic&logo=RStudio&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=plastic&logo=Markdown&logoColor=white)
@@ -28,17 +28,12 @@ I've contributed to various projects that include:
 ### Fun facts
 - In the last couple of years, I've picked up running 🏃‍♀️. My goal is to increase mileage each year 😅.
 
-![2021](https://img.shields.io/badge/2021-68%20miles-orange?style=for-the-badge&logoColor=white)
-![2022](https://img.shields.io/badge/2022-391%20miles-orange?style=for-the-badge&logoColor=white)
-![2023](https://img.shields.io/badge/2023-632%20miles-orange?style=for-the-badge&logoColor=white)
-![2024](https://img.shields.io/badge/2024-725%20miles-orange?style=for-the-badge&logoColor=white)
-![2025](https://img.shields.io/badge/2025-746%20miles-orange?style=for-the-badge&logoColor=white)
+![2021](https://img.shields.io/badge/2021-68%20miles-orange?style=for-the-badge&logoColor=white)\
+![2022](https://img.shields.io/badge/2022-391%20miles-orange?style=for-the-badge&logoColor=white)\
+![2023](https://img.shields.io/badge/2023-632%20miles-orange?style=for-the-badge&logoColor=white)\
+![2024](https://img.shields.io/badge/2024-725%20miles-orange?style=for-the-badge&logoColor=white)\
+![2025](https://img.shields.io/badge/2025-746%20miles-orange?style=for-the-badge&logoColor=white)\
 ![2026](https://img.shields.io/badge/2026%20goal-747%20miles-orange?style=for-the-badge&logoColor=white)
-
-
-
-
-
 
   
 - In my free time, I also enjoy drawing and painting.
