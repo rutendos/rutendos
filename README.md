@@ -27,15 +27,6 @@ I've contributed to various projects that include:
 
 ### Fun facts
 - In the last couple of years, I've picked up running 🏃‍♀️. My goal is to increase mileage each year 😅.
-
-![2021](https://img.shields.io/badge/2021-68%20miles-blue?style=flat-square&logoColor=white)\
-![2022](https://img.shields.io/badge/2022-391%20miles-blue?style=flat-square&logoColor=white)\
-![2023](https://img.shields.io/badge/2023-632%20miles-blue?style=flat-square&logoColor=white)\
-![2024](https://img.shields.io/badge/2024-725%20miles-blue?style=flat-square&logoColor=white)\
-![2025](https://img.shields.io/badge/2025-746%20miles-blue?style=flat-square&logoColor=white)\
-![2026](https://img.shields.io/badge/2026%20goal-747%20miles-blue?style=flat-square&logoColor=white)
-
-
   
 - In my free time, I also enjoy drawing and painting.
 
