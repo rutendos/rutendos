@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a Computational Biologist who enjoys tackling various biological problems using Statistical Methods and Machine Learning. I'm also passionate about the learning process and learning new skills! 
+I'm a Computational Biologist who enjoys tackling various biological problems using Statistical Methods and Machine Learning. I'm also passionate about the learning process and learning new skills! I'm also passionate about offering support to the greater scientific community, and have contributed to the [Short Read Workshop](https://biodatasci.colorado.edu/shortread/sr2025/) (a hands-on Bioinformatics workshop for biologists) at the University of Colorado Boulder for seven years.
 
 I've contributed to various projects that include:
 
@@ -10,7 +10,8 @@ I've contributed to various projects that include:
 2. Apply [signal processing and machine learning techniques](https://github.com/rutendos/genome_wavelets/blob/master/Rocky2019_Sigauke_Slides.pdf) to predict nascent RNA sequencing experiments from the raw data.
 3. Build a database ([DBNascent](https://nascent.colorado.edu/home/)) of nascent RNA sequencing experiments across 20 organisms.
 4. Applying [statistical analyses](https://github.com/Dowell-Lab/bidir_gene_pairs/tree/windowed_correlations) to determine regulatory regions linked to genes in human tissues.
-5. [Whiptail lizard](https://elifesciences.org/articles/97035) genomes 🦎 analyses. I contributed to the analysis of the synteny of the genomes and the repeat element content of the genomes. 
+5. [Whiptail lizard](https://elifesciences.org/articles/97035) genomes 🦎 analyses. I contributed to the analysis of the synteny of the genomes and the repeat element content of the genomes.
+6. Short Read Workshop [GitHub Repository](https://github.com/Dowell-Lab/srworkshop) with all worksheets on different NGS analysis pipelines.
 
 ### Development tools
 
